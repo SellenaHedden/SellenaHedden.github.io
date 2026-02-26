@@ -57,7 +57,7 @@ A multi-level puzzle experience.
 
 ---
 
-### 🎬 Animated Scene (8 Seconds)
+### 🎬 Animated Short
 **Software:** Maya  
 **Role:** Animator, Environment Artist, Sound Designer
 
