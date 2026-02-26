@@ -67,16 +67,15 @@ A multi-level puzzle experience.
 - Animated scene  
 - Recorded and implemented sound  
 <p align="center">
- <img src="Hope'sJourney02.png" width="400">
- <img src="Hope'sJourney04.png" width="400">
+ <img src="testrenderanimation_1.0077.png" width="400 height="224.5">
+ <img src="testrenderanimation_1.0177.png" width="400 height="224.5">
 </p>
 
 ---
 
 ### 🎯 Valorant Character Concept
 
-- Designed abilities and skill kit  
-- Defined gameplay identity  
+- Designed abilities and skill kit   
 - Balanced mechanics around tactical utility  
 <p align="center">
  <img src="EsportsCharacter01.png" width="400">
@@ -89,10 +88,10 @@ A multi-level puzzle experience.
 Original game IP written independently.  
 - Developed worldbuilding and tone  
 - Structured narrative arc  
-- Defined characters and themes  
+- Created and defined characters
 <p align="center">
- <img src=".png" width="400">
- <img src="CatGameStory01.png" width="400">
+ <img src="Screenshot 2026-02-26 024857.png" width="400" >
+ <img src="CatGameStory01.png" width="400" height="224.5>
 </p>
 
 ---
