@@ -10,7 +10,7 @@ I create gameplay-driven experiences focused on player progression, puzzle desig
 **Role:** Solo Developer (Design & Programming)
 
 A fully self-developed game built from concept to completion.  
-- Designed core gameplay systems  
+- Designed levels 
 - Implemented player mechanics  
 - Structured progression and flow  
 
@@ -20,10 +20,11 @@ A fully self-developed game built from concept to completion.
 **Engine:** Unity  
 **Role:** Solo Developer (Design & Programming)
 
+**LINK:** https://sellenahedden.itch.io/hopes-journey
+
 A narrative-focused experience built independently.  
-- Designed gameplay loop  
+- Designed levels  
 - Implemented systems and interactions  
-- Structured player progression  
 
 ---
 
@@ -31,10 +32,12 @@ A narrative-focused experience built independently.
 **Engine:** Unreal Engine  
 **Role:** Level Designer & Gameplay Programmer
 
+**LINK:** https://tatsuyam.itch.io/puzzle-tower
+
 A multi-level puzzle experience.  
+-Designed floor layouts for tower
 - Designed puzzles for Level 2 & Level 3  
-- Programmed Level 3  
-- Focused on player problem-solving and pacing  
+- Programmed Level 3    
 
 ---
 
@@ -42,14 +45,15 @@ A multi-level puzzle experience.
 **Software:** Maya  
 **Role:** Animator, Environment Artist, Sound Designer
 
+**LINK:** https://drive.google.com/file/d/1GkozVctvApFRdBpXLpCX1CqPs55_8pow/view?usp=sharing
+
 - Modeled entire environment from scratch  
 - Animated scene  
-- Designed and implemented sound  
+- Recorded and implemented sound  
 
 ---
 
 ### 🎯 Valorant Character Concept
-Inspired by hero-based tactical shooters.
 
 - Designed abilities and skill kit  
 - Defined gameplay identity  
