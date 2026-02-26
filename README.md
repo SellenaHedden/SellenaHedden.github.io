@@ -1,4 +1,3 @@
-## Sellena Hedden
 I create gameplay-driven experiences focused on player progression, puzzle design, and immersive environments. My work spans solo-developed Unity games, Unreal Engine level design, animation, and original IP development.
 
 ---
