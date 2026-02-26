@@ -10,8 +10,11 @@ I create gameplay-driven experiences focused on player progression, puzzle desig
 
 A fully self-developed game built from concept to completion.  
 - Designed levels 
-- Implemented player mechanics  
-- Structured progression and flow  
+- Implemented player mechanics
+<p align="center">
+ <img src="KittyRun01.png" width="400">
+ <img src="KIttyRun02.png" width="400">
+</p>
 
 ---
 
@@ -23,7 +26,11 @@ A fully self-developed game built from concept to completion.
 
 A narrative-focused experience built independently.  
 - Designed levels  
-- Implemented systems and interactions  
+- Implemented systems and interactions
+<p align="center">
+ <img src="Hope'sJourney02.png" width="400">
+ <img src="Hope'sJourney04.png" width="400">
+</p>
 
 ---
 
@@ -36,7 +43,17 @@ A narrative-focused experience built independently.
 A multi-level puzzle experience.  
 -Designed floor layouts for tower
 - Designed puzzles for Level 2 & Level 3  
-- Programmed Level 3    
+- Programmed Level 3
+<p align="center">
+ <img src="PuzzleTower01.png" width="400">
+ <img src="puzzletowerlvl1.jpg" width="400" height="224.5">
+</p>
+<p align="center">
+ <img src="puzzletowervl2.jpg" width="400" height="224.5">
+ <img src="puzzletowerlvl3.jpg" width="400" height="224.5">
+</p>
+
+
 
 ---
 
@@ -49,6 +66,10 @@ A multi-level puzzle experience.
 - Modeled entire environment from scratch  
 - Animated scene  
 - Recorded and implemented sound  
+<p align="center">
+ <img src="Hope'sJourney02.png" width="400">
+ <img src="Hope'sJourney04.png" width="400">
+</p>
 
 ---
 
@@ -57,6 +78,10 @@ A multi-level puzzle experience.
 - Designed abilities and skill kit  
 - Defined gameplay identity  
 - Balanced mechanics around tactical utility  
+<p align="center">
+ <img src="EsportsCharacter01.png" width="400">
+ <img src="EportsCharacter02.png" width="400">
+</p>
 
 ---
 
@@ -65,6 +90,10 @@ Original game IP written independently.
 - Developed worldbuilding and tone  
 - Structured narrative arc  
 - Defined characters and themes  
+<p align="center">
+ <img src=".png" width="400">
+ <img src="CatGameStory01.png" width="400">
+</p>
 
 ---
 
