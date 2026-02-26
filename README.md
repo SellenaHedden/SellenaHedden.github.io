@@ -103,3 +103,4 @@ Unity | Unreal Engine | Maya | 3DS Max | Photoshop | InDesign | Premiere
 
 [My LinkedIn](https://www.linkedin.com/in/sellena-hedden-4b497a3a8/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bnw0h6embROi6N%2Bwio2n8ow%3D%3D)
 [My Email](SellenaHedden@gmail.com)
+[My Resume](https://drive.google.com/file/d/1_YvBZb9avF8WYjfJOlfyjzDiY3dgKmrH/view?usp=sharing)
