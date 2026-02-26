@@ -67,8 +67,8 @@ A multi-level puzzle experience.
 - Animated scene  
 - Recorded and implemented sound  
 <p align="center">
- <img src="testrenderanimation_1.0077.png" width="400 height="224.5">
- <img src="testrenderanimation_1.0177.png" width="400 height="224.5">
+ <img src="testrenderanimation_1.0077.png" width="400">
+ <img src="testrenderanimation_1.0177.png" width="400">
 </p>
 
 ---
