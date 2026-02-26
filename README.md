@@ -18,11 +18,10 @@ A fully self-developed game built from concept to completion.
 
 ---
 
-### 🌟 Hope’s Journey
+### 🌟 Hope’s Journey  
+**[Hope's Journey](https://sellenahedden.itch.io/hopes-journey)**  
 **Engine:** Unity  
-**Role:** Solo Developer (Design & Programming)
-
-**LINK:** https://sellenahedden.itch.io/hopes-journey
+**Role:** Solo Developer (Design & Programming)  
 
 A narrative-focused experience built independently.  
 - Designed levels  
@@ -34,11 +33,10 @@ A narrative-focused experience built independently.
 
 ---
 
-### 🧩 Puzzle Tower
+### 🧩 Puzzle Tower  
+**[Puzzle Tower](https://tatsuyam.itch.io/puzzle-tower)**   
 **Engine:** Unreal Engine  
-**Role:** Level Designer & Gameplay Programmer
-
-**LINK:** https://tatsuyam.itch.io/puzzle-tower
+**Role:** Level Designer & Gameplay Programmer  
 
 A multi-level puzzle experience.  
 -Designed floor layouts for tower
@@ -57,11 +55,10 @@ A multi-level puzzle experience.
 
 ---
 
-### 🎬 Animated Short
+### 🎬 Animated Short   
+**[Animated Short](https://drive.google.com/file/d/1GkozVctvApFRdBpXLpCX1CqPs55_8pow/view?usp=sharing)**   
 **Software:** Maya  
-**Role:** Animator, Environment Artist, Sound Designer
-
-**LINK:** https://drive.google.com/file/d/1GkozVctvApFRdBpXLpCX1CqPs55_8pow/view?usp=sharing
+**Role:** Animator, Environment Artist, Sound Designer  
 
 - Modeled entire environment from scratch  
 - Animated scene  
