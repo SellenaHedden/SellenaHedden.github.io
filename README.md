@@ -65,5 +65,4 @@ Original game IP written independently.
 
 ---
 
-## Skills & Tools
 Unity | Unreal Engine | Maya | 3DS Max | Photoshop | InDesign | Premiere
