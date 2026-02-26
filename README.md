@@ -90,7 +90,7 @@ Original game IP written independently.
 - Structured narrative arc  
 - Created and defined characters
 <p align="center">
- <img src="Screenshot 2026-02-26 024857.png" width="400" >
+ <img src="Screenshot 2026-02-26 024857.png" width="400">
  <img src="CatGameStory01.png" width="400" height="224.5>
 </p>
 
