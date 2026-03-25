@@ -1,4 +1,5 @@
 I create gameplay-driven experiences focused on player progression, puzzle design, and immersive environments. I have worked on solo-developed games, level design, animation, and original IP development.
+
 [My Resume]([https://drive.google.com/file/d/1_YvBZb9avF8WYjfJOlfyjzDiY3dgKmrH/view?usp=sharing](https://docs.google.com/document/d/1yV2MOP7ukKzRcVKUukeQVWICDA-zYU8t/edit?usp=sharing&ouid=104317964329998060639&rtpof=true&sd=true))
 
 ---
