@@ -1,4 +1,4 @@
-I create gameplay-driven experiences focused on player progression, puzzle design, and immersive environments. I have worked on solo-developed games, level design, animation, and original IP development.
+Sellena Hedden is a student at George Mason University currently pursuing a degree in Computer Game Design. She specializes in level design and 3D environmental art. She has experience in Unity, Unreal Engine, 3ds Max, Maya, and Photoshop. Her work includes Kitty Run and Hope’s Journey, where she produced and developed level design for the games. Sellena was also part of a team working on Puzzle Tower, where she worked on the level design. Besides game development, she has experience working on 3D modeling, digital painting, and animation. Sellena continues to improve her skills in creating engaging and visually cohesive game environments. 
 
 [My Resume](https://drive.google.com/file/d/1_YvBZb9avF8WYjfJOlfyjzDiY3dgKmrH/view?usp=sharing](https://docs.google.com/document/d/1yV2MOP7ukKzRcVKUukeQVWICDA-zYU8t/edit?usp=sharing&ouid=104317964329998060639&rtpof=true&sd=true))
 
